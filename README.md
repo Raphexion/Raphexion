@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+Hi, I am Raphexion /ræpˈhɛk.si.ən/.
+
+A kind software engineer who loves Elixir and Erlang.
+M.Sc. in Engineering Physics with 15+ years in the software industry.
+Swedish citizen 🇸🇪, but has worked and studied in multiple countries 🇺🇸🇨🇭🇩🇰.
+Appreciates functional programming 𝛌 and pragmatic test-driven development 🧑‍🔧.
+Prefers simple designs over complicated solutions.
+Contributes to a safe and positive team culture 🌱.
+Believes code reviews should be helpful and constructive.
+Likes to learn new things and share with others 📚 🧑‍🏫.
+
 <!--
 **Raphexion/Raphexion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
