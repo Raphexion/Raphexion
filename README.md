@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I am Niklas or Raphexion /ræpˈhɛk.si.ən/.
+I am Niklas or Raphexion /ræpˈhɛk.si.ən/.
 
 A kind software engineer who loves Elixir and Erlang.
 M.Sc. in Engineering Physics with 15+ years in the software industry.
