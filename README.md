@@ -11,7 +11,7 @@ Contributes to a safe and positive team culture 🌱.
 Believes code reviews should be helpful and constructive.
 Likes to learn new things and share with others 📚 🧑‍🏫.
 
-- 🔭 I’m currently working on Web3 at Eiger
+- 🔭 I’m working on Web3 at [Eiger](https://www.eiger.co/).
 
 <!--
 **Raphexion/Raphexion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
