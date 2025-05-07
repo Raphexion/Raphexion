@@ -12,7 +12,6 @@ Believes code reviews should be helpful and constructive.
 Likes to learn new things and share with others 📚 🧑‍🏫.
 
 - 🔭 I’m currently working on Web3 at Eiger
-- 🌱 I’m currently learning Zig
 
 <!--
 **Raphexion/Raphexion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
